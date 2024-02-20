@@ -40,6 +40,9 @@ Set up and run the Book Library System on the local machine.
 
 ## API Endpoints in POSTMAN
 
+Here is the link to my library management collections:
+https://api.postman.com/collections/33060880-0046f596-38d9-400d-9105-2603b530a9ce?access_key=PMAT-01HQ2DCMS7BZQ7BZP2G0CF0AMS
+
 - **Add Book:**
     - Endpoint: `http://127.0.0.1:5000/add_book`
     - Method: POST
@@ -94,4 +97,5 @@ Set up and run the Book Library System on the local machine.
             "status": "available",
             "title": "The Great Gatsby"
         }
-      
+
+    
